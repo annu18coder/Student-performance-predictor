@@ -48,7 +48,7 @@ plt.title("Study Hours Distribution")
 plt.xlabel("Study Hours")
 plt.ylabel("Number of Students")
 
-# plt.show()
+plt.show()
 
 # 7. Ab hum study hours aur final marks ke beech relationship dekhenge.
 '''
@@ -59,7 +59,7 @@ Iske liye histogram nahi, scatter plot use karenge. 📈
 '''
 
 plt.scatter(df["study_hours"], df["final_marks"])
-# plt.show()
+plt.show()
 
 plt.scatter(df["attendance"], df["final_marks"])
 # plt.show()
