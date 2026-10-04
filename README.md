@@ -82,3 +82,7 @@ The models were evaluated using:
 
 ```bash
 git clone https://github.com/annu18coder/Student-performance-predictor.git
+
+## Live Demo
+
+[Open Student Performance Predictor](https://student-performance-predictor-xwbqwyvaddlsmidnbgpyc6.streamlit.app/)
